@@ -1,0 +1,1346 @@
+{
+  "last_modify_string": "2026/04/18(Sat) 00:00:00",
+  "last_modify": 1776438000,
+  "menu_list": [
+    {
+      "category_name": "一般カテゴリ",
+      "category_number": "1",
+      "category_total": 60,
+      "category_content": [
+        {
+          "category_name": "人気",
+          "board_name": "更新スレッド一覧(一般)",
+          "url": "https://5chan.jp/5ch_newlist/",
+          "directory_name": "5ch_newlist",
+          "category_order": 1,
+          "category": 1
+        },
+        {
+          "category_name": "人気",
+          "board_name": "人気スレッド一覧(一般)",
+          "url": "https://5chan.jp/5ch_popular/",
+          "directory_name": "5ch_popular",
+          "category_order": 2,
+          "category": 1
+        },
+
+        {
+          "category_name": "ニュース",
+          "board_name": "ニュース速報＋",
+          "url": "https://5chan.jp/5ch_newsplus/",
+          "directory_name": "5ch_newsplus",
+          "category_order": 3,
+          "category": 1
+        },
+        {
+          "category_name": "ニュース",
+          "board_name": "ニュース速報",
+          "url": "https://5chan.jp/5ch_news/",
+          "directory_name": "5ch_news",
+          "category_order": 4,
+          "category": 1
+        },
+        {
+          "category_name": "ニュース",
+          "board_name": "エンタメニュース",
+          "url": "https://5chan.jp/5ch_entame/",
+          "directory_name": "5ch_entame",
+          "category_order": 5,
+          "category": 1
+        },
+
+        {
+          "category_name": "雑談",
+          "board_name": "匿名ダイアリー",
+          "url": "https://5chan.jp/5ch_diary/",
+          "directory_name": "5ch_diary",
+          "category_order": 6,
+          "category": 1
+        },
+        {
+          "category_name": "雑談",
+          "board_name": "おもしろ動画",
+          "url": "https://5chan.jp/5ch_funnymovie/",
+          "directory_name": "5ch_funnymovie",
+          "category_order": 7,
+          "category": 1
+        },
+        {
+          "category_name": "雑談",
+          "board_name": "風景",
+          "url": "https://5chan.jp/5ch_scenery/",
+          "directory_name": "5ch_scenery",
+          "category_order": 8,
+          "category": 1
+        },
+        {
+          "category_name": "雑談",
+          "board_name": "自作画・イラスト",
+          "url": "https://5chan.jp/5ch_picture/",
+          "directory_name": "5ch_picture",
+          "category_order": 9,
+          "category": 1
+        },
+        {
+          "category_name": "雑談",
+          "board_name": "雑談",
+          "url": "https://5chan.jp/5ch_talk/",
+          "directory_name": "5ch_talk",
+          "category_order": 10,
+          "category": 1
+        },
+        {
+          "category_name": "雑談",
+          "board_name": "中国・韓国",
+          "url": "https://5chan.jp/5ch_easia/",
+          "directory_name": "5ch_easia",
+          "category_order": 11,
+          "category": 1
+        },
+
+        {
+          "category_name": "スポーツ",
+          "board_name": "野球",
+          "url": "https://5chan.jp/5ch_baseball/",
+          "directory_name": "5ch_baseball",
+          "category_order": 12,
+          "category": 1
+        },
+        {
+          "category_name": "スポーツ",
+          "board_name": "サッカー",
+          "url": "https://5chan.jp/5ch_soccer/",
+          "directory_name": "5ch_soccer",
+          "category_order": 13,
+          "category": 1
+        },
+        {
+          "category_name": "スポーツ",
+          "board_name": "格闘技",
+          "url": "https://5chan.jp/5ch_martialarts/",
+          "directory_name": "5ch_martialarts",
+          "category_order": 14,
+          "category": 1
+        },
+        {
+          "category_name": "スポーツ",
+          "board_name": "釣り",
+          "url": "https://5chan.jp/5ch_fishing/",
+          "directory_name": "5ch_fishing",
+          "category_order": 15,
+          "category": 1
+        },
+        {
+          "category_name": "スポーツ",
+          "board_name": "オリンピック",
+          "url": "https://5chan.jp/5ch_olympic/",
+          "directory_name": "5ch_olympic",
+          "category_order": 16,
+          "category": 1
+        },
+        {
+          "category_name": "スポーツ",
+          "board_name": "その他スポーツ",
+          "url": "https://5chan.jp/5ch_sports/",
+          "directory_name": "5ch_sports",
+          "category_order": 17,
+          "category": 1
+        },
+
+        {
+          "category_name": "動物",
+          "board_name": "いぬ・ねこ",
+          "url": "https://5chan.jp/5ch_dogcat/",
+          "directory_name": "5ch_dogcat",
+          "category_order": 18,
+          "category": 1
+        },
+        {
+          "category_name": "動物",
+          "board_name": "動物全般",
+          "url": "https://5chan.jp/5ch_animal/",
+          "directory_name": "5ch_animal",
+          "category_order": 19,
+          "category": 1
+        },
+        {
+          "category_name": "動物",
+          "board_name": "植物全般",
+          "url": "https://5chan.jp/5ch_plant/",
+          "directory_name": "5ch_plant",
+          "category_order": 20,
+          "category": 1
+        },
+        {
+          "category_name": "動物",
+          "board_name": "昆虫・虫",
+          "url": "https://5chan.jp/5ch_worm/",
+          "directory_name": "5ch_worm",
+          "category_order": 21,
+          "category": 1
+        },
+
+        {
+          "category_name": "サブカル",
+          "board_name": "萌え・二次元",
+          "url": "https://5chan.jp/5ch_moe/",
+          "directory_name": "5ch_moe",
+          "category_order": 22,
+          "category": 1
+        },
+        {
+          "category_name": "サブカル",
+          "board_name": "漫画・アニメ作品別",
+          "url": "https://5chan.jp/5ch_subculture/",
+          "directory_name": "5ch_subculture",
+          "category_order": 23,
+          "category": 1
+        },
+        {
+          "category_name": "サブカル",
+          "board_name": "フィギュア・プラモ",
+          "url": "https://5chan.jp/5ch_figure/",
+          "directory_name": "5ch_figure",
+          "category_order": 24,
+          "category": 1
+        },
+        {
+          "category_name": "サブカル",
+          "board_name": "ゲーム",
+          "url": "https://5chan.jp/5ch_game/",
+          "directory_name": "5ch_game",
+          "category_order": 25,
+          "category": 1
+        },
+        {
+          "category_name": "サブカル",
+          "board_name": "特撮・ヒーロー",
+          "url": "https://5chan.jp/5ch_hero/",
+          "directory_name": "5ch_hero",
+          "category_order": 26,
+          "category": 1
+        },
+        {
+          "category_name": "サブカル",
+          "board_name": "コスプレ(一般)",
+          "url": "https://5chan.jp/5ch_cosplay/",
+          "directory_name": "5ch_cosplay",
+          "category_order": 27,
+          "category": 1
+        },
+
+        {
+          "category_name": "乗り物",
+          "board_name": "二輪",
+          "url": "https://5chan.jp/5ch_bike/",
+          "directory_name": "5ch_bike",
+          "category_order": 28,
+          "category": 1
+        },
+        {
+          "category_name": "乗り物",
+          "board_name": "四輪",
+          "url": "https://5chan.jp/5ch_car/",
+          "directory_name": "5ch_car",
+          "category_order": 29,
+          "category": 1
+        },
+        {
+          "category_name": "乗り物",
+          "board_name": "飛行機",
+          "url": "https://5chan.jp/5ch_airplane/",
+          "directory_name": "5ch_airplane",
+          "category_order": 30,
+          "category": 1
+        },
+        {
+          "category_name": "乗り物",
+          "board_name": "船舶",
+          "url": "https://5chan.jp/5ch_ship/",
+          "directory_name": "5ch_ship",
+          "category_order": 31,
+          "category": 1
+        },
+        {
+          "category_name": "乗り物",
+          "board_name": "鉄道",
+          "url": "https://5chan.jp/5ch_railway/",
+          "directory_name": "5ch_railway",
+          "category_order": 32,
+          "category": 1
+        },
+        {
+          "category_name": "乗り物",
+          "board_name": "その他乗り物",
+          "url": "https://5chan.jp/5ch_vehicle/",
+          "directory_name": "5ch_vehicle",
+          "category_order": 33,
+          "category": 1
+        },
+
+        {
+          "category_name": "グルメ",
+          "board_name": "料理・レシピ",
+          "url": "https://5chan.jp/5ch_cook/",
+          "directory_name": "5ch_cook",
+          "category_order": 34,
+          "category": 1
+        },
+        {
+          "category_name": "グルメ",
+          "board_name": "お菓子",
+          "url": "https://5chan.jp/5ch_sweets/",
+          "directory_name": "5ch_sweets",
+          "category_order": 35,
+          "category": 1
+        },
+        {
+          "category_name": "グルメ",
+          "board_name": "居酒屋",
+          "url": "https://5chan.jp/5ch_izakaya/",
+          "directory_name": "5ch_izakaya",
+          "category_order": 36,
+          "category": 1
+        },
+        {
+          "category_name": "グルメ",
+          "board_name": "ラーメン・麺類",
+          "url": "https://5chan.jp/5ch_noodle/",
+          "directory_name": "5ch_noodle",
+          "category_order": 37,
+          "category": 1
+        },
+
+        {
+          "category_name": "ギャンブル・投資",
+          "board_name": "競馬・競艇・競輪",
+          "url": "https://5chan.jp/5ch_race/",
+          "directory_name": "5ch_race",
+          "category_order": 38,
+          "category": 1
+        },
+        {
+          "category_name": "ギャンブル・投資",
+          "board_name": "パチンコ・パチスロ",
+          "url": "https://5chan.jp/5ch_pachi/",
+          "directory_name": "5ch_pachi",
+          "category_order": 39,
+          "category": 1
+        },
+        {
+          "category_name": "ギャンブル・投資",
+          "board_name": "株・FX・その他投資",
+          "url": "https://5chan.jp/5ch_market/",
+          "directory_name": "5ch_market",
+          "category_order": 40,
+          "category": 1
+        },
+        {
+          "category_name": "ギャンブル・投資",
+          "board_name": "その他ギャンブル",
+          "url": "https://5chan.jp/5ch_gambling/",
+          "directory_name": "5ch_gambling",
+          "category_order": 41,
+          "category": 1
+        },
+
+        {
+          "category_name": "趣味",
+          "board_name": "待ち受け画像・芸術",
+          "url": "https://5chan.jp/5ch_art/",
+          "directory_name": "5ch_art",
+          "category_order": 42,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "デコメ・絵文字",
+          "url": "https://5chan.jp/5ch_decome/",
+          "directory_name": "5ch_decome",
+          "category_order": 43,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "ファッション",
+          "url": "https://5chan.jp/5ch_fashion/",
+          "directory_name": "5ch_fashion",
+          "category_order": 44,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "お笑い",
+          "url": "https://5chan.jp/5ch_owarai/",
+          "directory_name": "5ch_owarai",
+          "category_order": 45,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "科学",
+          "url": "https://5chan.jp/5ch_science/",
+          "directory_name": "5ch_science",
+          "category_order": 46,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "怪談・オカルト",
+          "url": "https://5chan.jp/5ch_occult/",
+          "directory_name": "5ch_occult",
+          "category_order": 47,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "テレビ・ラジオ",
+          "url": "https://5chan.jp/5ch_tv/",
+          "directory_name": "5ch_tv",
+          "category_order": 48,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "アイドル",
+          "url": "https://5chan.jp/5ch_idol/",
+          "directory_name": "5ch_idol",
+          "category_order": 49,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "映画",
+          "url": "https://5chan.jp/5ch_movie/",
+          "directory_name": "5ch_movie",
+          "category_order": 50,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "音楽",
+          "url": "https://5chan.jp/5ch_music/",
+          "directory_name": "5ch_music",
+          "category_order": 51,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "グラビア",
+          "url": "https://5chan.jp/5ch_gravure/",
+          "directory_name": "5ch_gravure",
+          "category_order": 52,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "歴史・学問",
+          "url": "https://5chan.jp/5ch_history/",
+          "directory_name": "5ch_history",
+          "category_order": 53,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "国家・軍隊",
+          "url": "https://5chan.jp/5ch_nationalism/",
+          "directory_name": "5ch_nationalism",
+          "category_order": 54,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "クイズ・なぞなぞ",
+          "url": "https://5chan.jp/5ch_quiz/",
+          "directory_name": "5ch_quiz",
+          "category_order": 55,
+          "category": 1
+        },
+        {
+          "category_name": "趣味",
+          "board_name": "なんでも相談・アンケート",
+          "url": "https://5chan.jp/5ch_qanda/",
+          "directory_name": "5ch_qanda",
+          "category_order": 56,
+          "category": 1
+        },
+
+        {
+          "category_name": "生活",
+          "board_name": "地震・災害",
+          "url": "https://5chan.jp/5ch_disaster/",
+          "directory_name": "5ch_disaster",
+          "category_order": 57,
+          "category": 1
+        },
+        {
+          "category_name": "生活",
+          "board_name": "職業・仕事",
+          "url": "https://5chan.jp/5ch_job/",
+          "directory_name": "5ch_job",
+          "category_order": 58,
+          "category": 1
+        },
+        {
+          "category_name": "生活",
+          "board_name": "病・ヘルス",
+          "url": "https://5chan.jp/5ch_health/",
+          "directory_name": "5ch_health",
+          "category_order": 59,
+          "category": 1
+        },
+        {
+          "category_name": "運営",
+          "board_name": "運営情報掲示板",
+          "url": "https://5chan.jp/5ch_unei/",
+          "directory_name": "5ch_unei",
+          "category_order": 60,
+          "category": 1
+        }
+      ]
+    },
+
+    {
+      "category_name": "アダルトカテゴリ",
+      "category_number": "2",
+      "category_total": 43,
+      "category_content": [
+        {
+          "category_name": "人気(18禁)",
+          "board_name": "更新スレッド一覧(18禁)",
+          "url": "https://5chan.jp/r18newlist/",
+          "directory_name": "r18newlist",
+          "category_order": 1,
+          "category": 2
+        },
+        {
+          "category_name": "人気(18禁)",
+          "board_name": "人気スレッド一覧(18禁)",
+          "url": "https://5chan.jp/r18popular/",
+          "directory_name": "r18popular",
+          "category_order": 2,
+          "category": 2
+        },
+
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "女優・AV",
+          "url": "https://5chan.jp/r18av/",
+          "directory_name": "r18av",
+          "category_order": 3,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "おっぱい",
+          "url": "https://5chan.jp/r18oppai/",
+          "directory_name": "r18oppai",
+          "category_order": 4,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "素人",
+          "url": "https://5chan.jp/r18sirouto/",
+          "directory_name": "r18sirouto",
+          "category_order": 5,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "コスプレ",
+          "url": "https://5chan.jp/r18cosplay/",
+          "directory_name": "r18cosplay",
+          "category_order": 6,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "ギャル",
+          "url": "https://5chan.jp/r18gal/",
+          "directory_name": "r18gal",
+          "category_order": 7,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "女神",
+          "url": "https://5chan.jp/r18megami/",
+          "directory_name": "r18megami",
+          "category_order": 8,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "熟女",
+          "url": "https://5chan.jp/r18zyukuzyo/",
+          "directory_name": "r18zyukuzyo",
+          "category_order": 9,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "デブ専",
+          "url": "https://5chan.jp/r18debusen/",
+          "directory_name": "r18debusen",
+          "category_order": 10,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "洋物",
+          "url": "https://5chan.jp/r18youmono/",
+          "directory_name": "r18youmono",
+          "category_order": 11,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "エロ動画",
+          "url": "https://5chan.jp/r18erodouga/",
+          "directory_name": "r18erodouga",
+          "category_order": 12,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト(18禁)",
+          "board_name": "エロTikTok",
+          "url": "https://5chan.jp/r18erotktk/",
+          "directory_name": "r18erotktk",
+          "category_order": 13,
+          "category": 2
+        },
+
+        {
+          "category_name": "フェチ(18禁)",
+          "board_name": "脚フェチ",
+          "url": "https://5chan.jp/r18leg/",
+          "directory_name": "r18leg",
+          "category_order": 14,
+          "category": 2
+        },
+        {
+          "category_name": "フェチ(18禁)",
+          "board_name": "尻フェチ",
+          "url": "https://5chan.jp/r18hip/",
+          "directory_name": "r18hip",
+          "category_order": 15,
+          "category": 2
+        },
+        {
+          "category_name": "フェチ(18禁)",
+          "board_name": "腋フェチ・脇フェチ",
+          "url": "https://5chan.jp/r18waki/",
+          "directory_name": "r18waki",
+          "category_order": 16,
+          "category": 2
+        },
+        {
+          "category_name": "フェチ(18禁)",
+          "board_name": "水着・下着",
+          "url": "https://5chan.jp/r18mizugi/",
+          "directory_name": "r18mizugi",
+          "category_order": 17,
+          "category": 2
+        },
+        {
+          "category_name": "フェチ(18禁)",
+          "board_name": "アクションカメラ",
+          "url": "https://5chan.jp/r18camera/",
+          "directory_name": "r18camera",
+          "category_order": 18,
+          "category": 2
+        },
+        {
+          "category_name": "フェチ(18禁)",
+          "board_name": "アスリート",
+          "url": "https://5chan.jp/r18athlete/",
+          "directory_name": "r18athlete",
+          "category_order": 19,
+          "category": 2
+        },
+        {
+          "category_name": "フェチ(18禁)",
+          "board_name": "SEX",
+          "url": "https://5chan.jp/r18sex/",
+          "directory_name": "r18sex",
+          "category_order": 20,
+          "category": 2
+        },
+        {
+          "category_name": "フェチ(18禁)",
+          "board_name": "レズビアン",
+          "url": "https://5chan.jp/r18rezu/",
+          "directory_name": "r18rezu",
+          "category_order": 21,
+          "category": 2
+        },
+        {
+          "category_name": "フェチ(18禁)",
+          "board_name": "二次元",
+          "url": "https://5chan.jp/r18nizigen/",
+          "directory_name": "r18nizigen",
+          "category_order": 22,
+          "category": 2
+        },
+        {
+          "category_name": "フェチ(18禁)",
+          "board_name": "生成AI画像・AI動画",
+          "url": "https://5chan.jp/r18seiseiai/",
+          "directory_name": "r18seiseiai",
+          "category_order": 23,
+          "category": 2
+        },
+
+        {
+          "category_name": "マニア(18禁)",
+          "board_name": "SM・調教・緊縛",
+          "url": "https://5chan.jp/r18kinbaku/",
+          "directory_name": "r18kinbaku",
+          "category_order": 24,
+          "category": 2
+        },
+        {
+          "category_name": "マニア(18禁)",
+          "board_name": "女装・男の娘",
+          "url": "https://5chan.jp/r18zyosou/",
+          "directory_name": "r18zyosou",
+          "category_order": 25,
+          "category": 2
+        },
+        {
+          "category_name": "マニア(18禁)",
+          "board_name": "ニューハーフ",
+          "url": "https://5chan.jp/r18shemale/",
+          "directory_name": "r18shemale",
+          "category_order": 26,
+          "category": 2
+        },
+        {
+          "category_name": "マニア(18禁)",
+          "board_name": "ゲイ",
+          "url": "https://5chan.jp/r18gay/",
+          "directory_name": "r18gay",
+          "category_order": 27,
+          "category": 2
+        },
+        {
+          "category_name": "マニア(18禁)",
+          "board_name": "スカトロ",
+          "url": "https://5chan.jp/r18sukatoro/",
+          "directory_name": "r18sukatoro",
+          "category_order": 28,
+          "category": 2
+        },
+        {
+          "category_name": "マニア(18禁)",
+          "board_name": "ラブドール",
+          "url": "https://5chan.jp/r18lovedoll/",
+          "directory_name": "r18lovedoll",
+          "category_order": 29,
+          "category": 2
+        },
+
+        {
+          "category_name": "その他(18禁)",
+          "board_name": "風俗",
+          "url": "https://5chan.jp/r18huzoku/",
+          "directory_name": "r18huzoku",
+          "category_order": 30,
+          "category": 2
+        },
+        {
+          "category_name": "その他(18禁)",
+          "board_name": "オナニー",
+          "url": "https://5chan.jp/r18masturbation/",
+          "directory_name": "r18masturbation",
+          "category_order": 31,
+          "category": 2
+        },
+        {
+          "category_name": "その他(18禁)",
+          "board_name": "アダルトグッズ",
+          "url": "https://5chan.jp/r18goods/",
+          "directory_name": "r18goods",
+          "category_order": 32,
+          "category": 2
+        },
+        {
+          "category_name": "その他(18禁)",
+          "board_name": "性の悩み",
+          "url": "https://5chan.jp/r18talk/",
+          "directory_name": "r18talk",
+          "category_order": 33,
+          "category": 2
+        },
+
+        {
+          "category_name": "アダルト地域版(18禁)",
+          "board_name": "北海道総合(18禁)",
+          "url": "https://5chan.jp/r18hokkaido/",
+          "directory_name": "r18hokkaido",
+          "category_order": 34,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト地域版(18禁)",
+          "board_name": "東北総合(18禁)",
+          "url": "https://5chan.jp/r18touhoku/",
+          "directory_name": "r18touhoku",
+          "category_order": 35,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト地域版(18禁)",
+          "board_name": "関東総合(18禁)",
+          "url": "https://5chan.jp/r18kanto/",
+          "directory_name": "r18kanto",
+          "category_order": 36,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト地域版(18禁)",
+          "board_name": "東京総合(18禁)",
+          "url": "https://5chan.jp/r18tokyo/",
+          "directory_name": "r18tokyo",
+          "category_order": 37,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト地域版(18禁)",
+          "board_name": "北陸総合(18禁)",
+          "url": "https://5chan.jp/r18hokuriku/",
+          "directory_name": "r18hokuriku",
+          "category_order": 38,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト地域版(18禁)",
+          "board_name": "中部総合(18禁)",
+          "url": "https://5chan.jp/r18tyubu/",
+          "directory_name": "r18tyubu",
+          "category_order": 39,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト地域版(18禁)",
+          "board_name": "関西総合(18禁)",
+          "url": "https://5chan.jp/r18kinki/",
+          "directory_name": "r18kinki",
+          "category_order": 40,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト地域版(18禁)",
+          "board_name": "中国総合(18禁)",
+          "url": "https://5chan.jp/r18tyugoku/",
+          "directory_name": "r18tyugoku",
+          "category_order": 41,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト地域版(18禁)",
+          "board_name": "四国総合(18禁)",
+          "url": "https://5chan.jp/r18shikoku/",
+          "directory_name": "r18shikoku",
+          "category_order": 42,
+          "category": 2
+        },
+        {
+          "category_name": "アダルト地域版(18禁)",
+          "board_name": "九州・沖縄総合(18禁)",
+          "url": "https://5chan.jp/r18kyusyu/",
+          "directory_name": "r18kyusyu",
+          "category_order": 43,
+          "category": 2
+        }
+      ]
+    },
+
+    {
+      "category_name": "地域カテゴリ",
+      "category_number": "3",
+      "category_total": 58,
+      "category_content": [
+
+        {
+          "category_name": "人気(地域板)",
+          "board_name": "更新スレッド一覧(全国)",
+          "url": "https://5chan.jp/loc_newlist/",
+          "directory_name": "loc_newlist",
+          "category_order": 1,
+          "category": 3
+        },
+        {
+          "category_name": "人気(地域板)",
+          "board_name": "人気スレッド一覧(全国)",
+          "url": "https://5chan.jp/loc_popular/",
+          "directory_name": "loc_popular",
+          "category_order": 2,
+          "category": 3
+        },
+
+        {
+          "category_name": "北海道",
+          "board_name": "北海道",
+          "url": "https://5chan.jp/5ch_hokkaido/",
+          "directory_name": "5ch_hokkaido",
+          "category_order": 3,
+          "category": 3
+        },
+
+        {
+          "category_name": "東北",
+          "board_name": "更新スレ一覧(東北)",
+          "url": "https://5chan.jp/loc_newtouhoku/",
+          "directory_name": "loc_newtouhoku",
+          "category_order": 4,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "青森県",
+          "url": "https://5chan.jp/5ch_aomori/",
+          "directory_name": "5ch_aomori",
+          "category_order": 5,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "岩手県",
+          "url": "https://5chan.jp/5ch_iwate/",
+          "directory_name": "5ch_iwate",
+          "category_order": 6,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "宮城県",
+          "url": "https://5chan.jp/5ch_miyagi/",
+          "directory_name": "5ch_miyagi",
+          "category_order": 7,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "秋田県",
+          "url": "https://5chan.jp/5ch_akita/",
+          "directory_name": "5ch_akita",
+          "category_order": 8,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "山形県",
+          "url": "https://5chan.jp/5ch_yamagata/",
+          "directory_name": "5ch_yamagata",
+          "category_order": 9,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "福島県",
+          "url": "https://5chan.jp/5ch_fukushima/",
+          "directory_name": "5ch_fukushima",
+          "category_order": 10,
+          "category": 3
+        },
+
+        {
+          "category_name": "関東",
+          "board_name": "更新スレ一覧(関東)",
+          "url": "https://5chan.jp/loc_newkantou/",
+          "directory_name": "loc_newkantou",
+          "category_order": 11,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "東京都",
+          "url": "https://5chan.jp/5ch_tokyo/",
+          "directory_name": "5ch_tokyo",
+          "category_order": 12,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "茨城県",
+          "url": "https://5chan.jp/5ch_ibaragi/",
+          "directory_name": "5ch_ibaragi",
+          "category_order": 13,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "栃木県",
+          "url": "https://5chan.jp/5ch_tochigi/",
+          "directory_name": "5ch_tochigi",
+          "category_order": 14,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "群馬県",
+          "url": "https://5chan.jp/5ch_gunma/",
+          "directory_name": "5ch_gunma",
+          "category_order": 15,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "埼玉県",
+          "url": "https://5chan.jp/5ch_saitama/",
+          "directory_name": "5ch_saitama",
+          "category_order": 16,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "千葉県",
+          "url": "https://5chan.jp/5ch_chiba/",
+          "directory_name": "5ch_chiba",
+          "category_order": 17,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "神奈川県",
+          "url": "https://5chan.jp/5ch_kanagawa/",
+          "directory_name": "5ch_kanagawa",
+          "category_order": 18,
+          "category": 3
+        },
+
+        {
+          "category_name": "甲信越",
+          "board_name": "更新スレ一覧(甲信越)",
+          "url": "https://5chan.jp/loc_newkoushinetsu/",
+          "directory_name": "loc_newkoushinetsu",
+          "category_order": 19,
+          "category": 3
+        },
+        {
+          "category_name": "甲信越",
+          "board_name": "新潟県",
+          "url": "https://5chan.jp/5ch_niigata/",
+          "directory_name": "5ch_niigata",
+          "category_order": 20,
+          "category": 3
+        },
+        {
+          "category_name": "甲信越",
+          "board_name": "長野県",
+          "url": "https://5chan.jp/5ch_nagano/",
+          "directory_name": "5ch_nagano",
+          "category_order": 21,
+          "category": 3
+        },
+        {
+          "category_name": "甲信越",
+          "board_name": "山梨県",
+          "url": "https://5chan.jp/5ch_yamanashi/",
+          "directory_name": "5ch_yamanashi",
+          "category_order": 22,
+          "category": 3
+        },
+
+        {
+          "category_name": "東海",
+          "board_name": "更新スレ一覧(東海)",
+          "url": "https://5chan.jp/loc_newtokai/",
+          "directory_name": "loc_newtokai",
+          "category_order": 23,
+          "category": 3
+        },
+        {
+          "category_name": "東海",
+          "board_name": "岐阜県",
+          "url": "https://5chan.jp/5ch_gifu/",
+          "directory_name": "5ch_gifu",
+          "category_order": 24,
+          "category": 3
+        },
+        {
+          "category_name": "東海",
+          "board_name": "静岡県",
+          "url": "https://5chan.jp/5ch_shizuoka/",
+          "directory_name": "5ch_shizuoka",
+          "category_order": 25,
+          "category": 3
+        },
+        {
+          "category_name": "東海",
+          "board_name": "愛知県",
+          "url": "https://5chan.jp/5ch_aichi/",
+          "directory_name": "5ch_aichi",
+          "category_order": 26,
+          "category": 3
+        },
+        {
+          "category_name": "東海",
+          "board_name": "三重県",
+          "url": "https://5chan.jp/5ch_mie/",
+          "directory_name": "5ch_mie",
+          "category_order": 27,
+          "category": 3
+        },
+
+        {
+          "category_name": "北陸",
+          "board_name": "更新スレ一覧(北陸)",
+          "url": "https://5chan.jp/loc_newhokuriku/",
+          "directory_name": "loc_newhokuriku",
+          "category_order": 28,
+          "category": 3
+        },
+        {
+          "category_name": "北陸",
+          "board_name": "富山県",
+          "url": "https://5chan.jp/5ch_toyama/",
+          "directory_name": "5ch_toyama",
+          "category_order": 29,
+          "category": 3
+        },
+        {
+          "category_name": "北陸",
+          "board_name": "石川県",
+          "url": "https://5chan.jp/5ch_ishikawa/",
+          "directory_name": "5ch_ishikawa",
+          "category_order": 30,
+          "category": 3
+        },
+        {
+          "category_name": "北陸",
+          "board_name": "福井県",
+          "url": "https://5chan.jp/5ch_fukui/",
+          "directory_name": "5ch_fukui",
+          "category_order": 31,
+          "category": 3
+        },
+
+        {
+          "category_name": "関西",
+          "board_name": "更新スレ一覧(関西)",
+          "url": "https://5chan.jp/loc_newkinki/",
+          "directory_name": "loc_newkinki",
+          "category_order": 32,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "滋賀県",
+          "url": "https://5chan.jp/5ch_shiga/",
+          "directory_name": "5ch_shiga",
+          "category_order": 33,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "京都府",
+          "url": "https://5chan.jp/5ch_kyoto/",
+          "directory_name": "5ch_kyoto",
+          "category_order": 34,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "大阪府",
+          "url": "https://5chan.jp/5ch_osaka/",
+          "directory_name": "5ch_osaka",
+          "category_order": 35,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "兵庫県",
+          "url": "https://5chan.jp/5ch_hyogo/",
+          "directory_name": "5ch_hyogo",
+          "category_order": 36,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "奈良県",
+          "url": "https://5chan.jp/5ch_nara/",
+          "directory_name": "5ch_nara",
+          "category_order": 37,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "和歌山県",
+          "url": "https://5chan.jp/5ch_narayama/",
+          "directory_name": "5ch_narayama",
+          "category_order": 38,
+          "category": 3
+        },
+
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "更新スレ一覧(山陽・山陰)",
+          "url": "https://5chan.jp/loc_newsanyou/",
+          "directory_name": "loc_newsanyou",
+          "category_order": 39,
+          "category": 3
+        },
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "鳥取県",
+          "url": "https://5chan.jp/5ch_tottori/",
+          "directory_name": "5ch_tottori",
+          "category_order": 40,
+          "category": 3
+        },
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "島根県",
+          "url": "https://5chan.jp/5ch_shimane/",
+          "directory_name": "5ch_shimane",
+          "category_order": 41,
+          "category": 3
+        },
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "岡山県",
+          "url": "https://5chan.jp/5ch_okayama/",
+          "directory_name": "5ch_okayama",
+          "category_order": 42,
+          "category": 3
+        },
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "広島県",
+          "url": "https://5chan.jp/5ch_hiroshima/",
+          "directory_name": "5ch_hiroshima",
+          "category_order": 43,
+          "category": 3
+        },
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "山口県",
+          "url": "https://5chan.jp/5ch_yamaguchi/",
+          "directory_name": "5ch_yamaguchi",
+          "category_order": 44,
+          "category": 3
+        },
+
+        {
+          "category_name": "四国",
+          "board_name": "更新スレ一覧(四国)",
+          "url": "https://5chan.jp/loc_newsikoku/",
+          "directory_name": "loc_newsikoku",
+          "category_order": 45,
+          "category": 3
+        },
+        {
+          "category_name": "四国",
+          "board_name": "徳島県",
+          "url": "https://5chan.jp/5ch_tokushima/",
+          "directory_name": "5ch_tokushima",
+          "category_order": 46,
+          "category": 3
+        },
+        {
+          "category_name": "四国",
+          "board_name": "香川県",
+          "url": "https://5chan.jp/5ch_kagawa/",
+          "directory_name": "5ch_kagawa",
+          "category_order": 47,
+          "category": 3
+        },
+        {
+          "category_name": "四国",
+          "board_name": "愛媛県",
+          "url": "https://5chan.jp/5ch_ehime/",
+          "directory_name": "5ch_ehime",
+          "category_order": 48,
+          "category": 3
+        },
+        {
+          "category_name": "四国",
+          "board_name": "高知県",
+          "url": "https://5chan.jp/5ch_kochi/",
+          "directory_name": "5ch_kochi",
+          "category_order": 49,
+          "category": 3
+        },
+
+        {
+          "category_name": "九州",
+          "board_name": "更新スレ一覧(九州)",
+          "url": "https://5chan.jp/loc_newkyusyu/",
+          "directory_name": "loc_newkyusyu",
+          "category_order": 50,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "福岡県",
+          "url": "https://5chan.jp/5ch_fukuoka/",
+          "directory_name": "5ch_fukuoka",
+          "category_order": 51,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "佐賀県",
+          "url": "https://5chan.jp/5ch_saga/",
+          "directory_name": "5ch_saga",
+          "category_order": 52,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "長崎県",
+          "url": "https://5chan.jp/5ch_nagasaki/",
+          "directory_name": "5ch_nagasaki",
+          "category_order": 53,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "大分県",
+          "url": "https://5chan.jp/5ch_oita/",
+          "directory_name": "5ch_oita",
+          "category_order": 54,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "熊本県",
+          "url": "https://5chan.jp/5ch_kumamoto/",
+          "directory_name": "5ch_kumamoto",
+          "category_order": 55,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "宮崎県",
+          "url": "https://5chan.jp/5ch_miyazaki/",
+          "directory_name": "5ch_miyazaki",
+          "category_order": 56,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "鹿児島県",
+          "url": "https://5chan.jp/5ch_kagoshima/",
+          "directory_name": "5ch_kagoshima",
+          "category_order": 57,
+          "category": 3
+        },
+
+        {
+          "category_name": "沖縄",
+          "board_name": "沖縄県",
+          "url": "https://5chan.jp/5ch_okinawa/",
+          "directory_name": "5ch_okinawa",
+          "category_order": 58,
+          "category": 3
+        }
+
+      ]
+    }
+  ],
+  "description": "5chan bbsmenu for the json application"
+}

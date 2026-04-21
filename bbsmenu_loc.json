@@ -1,0 +1,500 @@
+{
+  "last_modify_string": "2026/04/18(Sat) 00:00:00",
+  "last_modify": 1776438000,
+  "menu_list": [
+    {
+      "category_name": "地域カテゴリ",
+      "category_number": "3",
+      "category_total": 59,
+      "category_content": [
+
+        {
+          "category_name": "人気(地域板)",
+          "board_name": "更新スレッド一覧(全国)",
+          "url": "https://5chan.jp/loc_newlist/",
+          "directory_name": "loc_newlist",
+          "category_order": 1,
+          "category": 3
+        },
+        {
+          "category_name": "人気(地域板)",
+          "board_name": "人気スレッド一覧(全国)",
+          "url": "https://5chan.jp/loc_popular/",
+          "directory_name": "loc_popular",
+          "category_order": 2,
+          "category": 3
+        },
+
+        {
+          "category_name": "北海道",
+          "board_name": "北海道",
+          "url": "https://5chan.jp/5ch_hokkaido/",
+          "directory_name": "5ch_hokkaido",
+          "category_order": 3,
+          "category": 3
+        },
+
+        {
+          "category_name": "東北",
+          "board_name": "更新スレ一覧(東北)",
+          "url": "https://5chan.jp/loc_newtouhoku/",
+          "directory_name": "loc_newtouhoku",
+          "category_order": 4,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "青森県",
+          "url": "https://5chan.jp/5ch_aomori/",
+          "directory_name": "5ch_aomori",
+          "category_order": 5,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "岩手県",
+          "url": "https://5chan.jp/5ch_iwate/",
+          "directory_name": "5ch_iwate",
+          "category_order": 6,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "宮城県",
+          "url": "https://5chan.jp/5ch_miyagi/",
+          "directory_name": "5ch_miyagi",
+          "category_order": 7,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "秋田県",
+          "url": "https://5chan.jp/5ch_akita/",
+          "directory_name": "5ch_akita",
+          "category_order": 8,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "山形県",
+          "url": "https://5chan.jp/5ch_yamagata/",
+          "directory_name": "5ch_yamagata",
+          "category_order": 9,
+          "category": 3
+        },
+        {
+          "category_name": "東北",
+          "board_name": "福島県",
+          "url": "https://5chan.jp/5ch_fukushima/",
+          "directory_name": "5ch_fukushima",
+          "category_order": 10,
+          "category": 3
+        },
+
+        {
+          "category_name": "関東",
+          "board_name": "更新スレ一覧(関東)",
+          "url": "https://5chan.jp/loc_newkantou/",
+          "directory_name": "loc_newkantou",
+          "category_order": 11,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "東京都",
+          "url": "https://5chan.jp/5ch_tokyo/",
+          "directory_name": "5ch_tokyo",
+          "category_order": 12,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "茨城県",
+          "url": "https://5chan.jp/5ch_ibaragi/",
+          "directory_name": "5ch_ibaragi",
+          "category_order": 13,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "栃木県",
+          "url": "https://5chan.jp/5ch_tochigi/",
+          "directory_name": "5ch_tochigi",
+          "category_order": 14,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "群馬県",
+          "url": "https://5chan.jp/5ch_gunma/",
+          "directory_name": "5ch_gunma",
+          "category_order": 15,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "埼玉県",
+          "url": "https://5chan.jp/5ch_saitama/",
+          "directory_name": "5ch_saitama",
+          "category_order": 16,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "千葉県",
+          "url": "https://5chan.jp/5ch_chiba/",
+          "directory_name": "5ch_chiba",
+          "category_order": 17,
+          "category": 3
+        },
+        {
+          "category_name": "関東",
+          "board_name": "神奈川県",
+          "url": "https://5chan.jp/5ch_kanagawa/",
+          "directory_name": "5ch_kanagawa",
+          "category_order": 18,
+          "category": 3
+        },
+
+        {
+          "category_name": "甲信越",
+          "board_name": "更新スレ一覧(甲信越)",
+          "url": "https://5chan.jp/loc_newkoushinetsu/",
+          "directory_name": "loc_newkoushinetsu",
+          "category_order": 19,
+          "category": 3
+        },
+        {
+          "category_name": "甲信越",
+          "board_name": "新潟県",
+          "url": "https://5chan.jp/5ch_niigata/",
+          "directory_name": "5ch_niigata",
+          "category_order": 20,
+          "category": 3
+        },
+        {
+          "category_name": "甲信越",
+          "board_name": "長野県",
+          "url": "https://5chan.jp/5ch_nagano/",
+          "directory_name": "5ch_nagano",
+          "category_order": 21,
+          "category": 3
+        },
+        {
+          "category_name": "甲信越",
+          "board_name": "山梨県",
+          "url": "https://5chan.jp/5ch_yamanashi/",
+          "directory_name": "5ch_yamanashi",
+          "category_order": 22,
+          "category": 3
+        },
+
+        {
+          "category_name": "東海",
+          "board_name": "更新スレ一覧(東海)",
+          "url": "https://5chan.jp/loc_newtokai/",
+          "directory_name": "loc_newtokai",
+          "category_order": 23,
+          "category": 3
+        },
+        {
+          "category_name": "東海",
+          "board_name": "岐阜県",
+          "url": "https://5chan.jp/5ch_gifu/",
+          "directory_name": "5ch_gifu",
+          "category_order": 24,
+          "category": 3
+        },
+        {
+          "category_name": "東海",
+          "board_name": "静岡県",
+          "url": "https://5chan.jp/5ch_shizuoka/",
+          "directory_name": "5ch_shizuoka",
+          "category_order": 25,
+          "category": 3
+        },
+        {
+          "category_name": "東海",
+          "board_name": "愛知県",
+          "url": "https://5chan.jp/5ch_aichi/",
+          "directory_name": "5ch_aichi",
+          "category_order": 26,
+          "category": 3
+        },
+        {
+          "category_name": "東海",
+          "board_name": "三重県",
+          "url": "https://5chan.jp/5ch_mie/",
+          "directory_name": "5ch_mie",
+          "category_order": 27,
+          "category": 3
+        },
+
+        {
+          "category_name": "北陸",
+          "board_name": "更新スレ一覧(北陸)",
+          "url": "https://5chan.jp/loc_newhokuriku/",
+          "directory_name": "loc_newhokuriku",
+          "category_order": 28,
+          "category": 3
+        },
+        {
+          "category_name": "北陸",
+          "board_name": "富山県",
+          "url": "https://5chan.jp/5ch_toyama/",
+          "directory_name": "5ch_toyama",
+          "category_order": 29,
+          "category": 3
+        },
+        {
+          "category_name": "北陸",
+          "board_name": "石川県",
+          "url": "https://5chan.jp/5ch_ishikawa/",
+          "directory_name": "5ch_ishikawa",
+          "category_order": 30,
+          "category": 3
+        },
+        {
+          "category_name": "北陸",
+          "board_name": "福井県",
+          "url": "https://5chan.jp/5ch_fukui/",
+          "directory_name": "5ch_fukui",
+          "category_order": 31,
+          "category": 3
+        },
+
+        {
+          "category_name": "関西",
+          "board_name": "更新スレ一覧(関西)",
+          "url": "https://5chan.jp/loc_newkinki/",
+          "directory_name": "loc_newkinki",
+          "category_order": 32,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "滋賀県",
+          "url": "https://5chan.jp/5ch_shiga/",
+          "directory_name": "5ch_shiga",
+          "category_order": 33,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "京都府",
+          "url": "https://5chan.jp/5ch_kyoto/",
+          "directory_name": "5ch_kyoto",
+          "category_order": 34,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "大阪府",
+          "url": "https://5chan.jp/5ch_osaka/",
+          "directory_name": "5ch_osaka",
+          "category_order": 35,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "兵庫県",
+          "url": "https://5chan.jp/5ch_hyogo/",
+          "directory_name": "5ch_hyogo",
+          "category_order": 36,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "奈良県",
+          "url": "https://5chan.jp/5ch_nara/",
+          "directory_name": "5ch_nara",
+          "category_order": 37,
+          "category": 3
+        },
+        {
+          "category_name": "関西",
+          "board_name": "和歌山県",
+          "url": "https://5chan.jp/5ch_narayama/",
+          "directory_name": "5ch_narayama",
+          "category_order": 38,
+          "category": 3
+        },
+
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "更新スレ一覧(山陽・山陰)",
+          "url": "https://5chan.jp/loc_newsanyou/",
+          "directory_name": "loc_newsanyou",
+          "category_order": 39,
+          "category": 3
+        },
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "鳥取県",
+          "url": "https://5chan.jp/5ch_tottori/",
+          "directory_name": "5ch_tottori",
+          "category_order": 40,
+          "category": 3
+        },
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "島根県",
+          "url": "https://5chan.jp/5ch_shimane/",
+          "directory_name": "5ch_shimane",
+          "category_order": 41,
+          "category": 3
+        },
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "岡山県",
+          "url": "https://5chan.jp/5ch_okayama/",
+          "directory_name": "5ch_okayama",
+          "category_order": 42,
+          "category": 3
+        },
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "広島県",
+          "url": "https://5chan.jp/5ch_hiroshima/",
+          "directory_name": "5ch_hiroshima",
+          "category_order": 43,
+          "category": 3
+        },
+        {
+          "category_name": "山陽・山陰",
+          "board_name": "山口県",
+          "url": "https://5chan.jp/5ch_yamaguchi/",
+          "directory_name": "5ch_yamaguchi",
+          "category_order": 44,
+          "category": 3
+        },
+
+        {
+          "category_name": "四国",
+          "board_name": "更新スレ一覧(四国)",
+          "url": "https://5chan.jp/loc_newsikoku/",
+          "directory_name": "loc_newsikoku",
+          "category_order": 45,
+          "category": 3
+        },
+        {
+          "category_name": "四国",
+          "board_name": "徳島県",
+          "url": "https://5chan.jp/5ch_tokushima/",
+          "directory_name": "5ch_tokushima",
+          "category_order": 46,
+          "category": 3
+        },
+        {
+          "category_name": "四国",
+          "board_name": "香川県",
+          "url": "https://5chan.jp/5ch_kagawa/",
+          "directory_name": "5ch_kagawa",
+          "category_order": 47,
+          "category": 3
+        },
+        {
+          "category_name": "四国",
+          "board_name": "愛媛県",
+          "url": "https://5chan.jp/5ch_ehime/",
+          "directory_name": "5ch_ehime",
+          "category_order": 48,
+          "category": 3
+        },
+        {
+          "category_name": "四国",
+          "board_name": "高知県",
+          "url": "https://5chan.jp/5ch_kochi/",
+          "directory_name": "5ch_kochi",
+          "category_order": 49,
+          "category": 3
+        },
+
+        {
+          "category_name": "九州",
+          "board_name": "更新スレ一覧(九州)",
+          "url": "https://5chan.jp/loc_newkyusyu/",
+          "directory_name": "loc_newkyusyu",
+          "category_order": 50,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "福岡県",
+          "url": "https://5chan.jp/5ch_fukuoka/",
+          "directory_name": "5ch_fukuoka",
+          "category_order": 51,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "佐賀県",
+          "url": "https://5chan.jp/5ch_saga/",
+          "directory_name": "5ch_saga",
+          "category_order": 52,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "長崎県",
+          "url": "https://5chan.jp/5ch_nagasaki/",
+          "directory_name": "5ch_nagasaki",
+          "category_order": 53,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "大分県",
+          "url": "https://5chan.jp/5ch_oita/",
+          "directory_name": "5ch_oita",
+          "category_order": 54,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "熊本県",
+          "url": "https://5chan.jp/5ch_kumamoto/",
+          "directory_name": "5ch_kumamoto",
+          "category_order": 55,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "宮崎県",
+          "url": "https://5chan.jp/5ch_miyazaki/",
+          "directory_name": "5ch_miyazaki",
+          "category_order": 56,
+          "category": 3
+        },
+        {
+          "category_name": "九州",
+          "board_name": "鹿児島県",
+          "url": "https://5chan.jp/5ch_kagoshima/",
+          "directory_name": "5ch_kagoshima",
+          "category_order": 57,
+          "category": 3
+        },
+
+        {
+          "category_name": "沖縄",
+          "board_name": "沖縄県",
+          "url": "https://5chan.jp/5ch_okinawa/",
+          "directory_name": "5ch_okinawa",
+          "category_order": 58,
+          "category": 3
+        },
+
+        {
+          "category_name": "運営",
+          "board_name": "運営情報掲示板",
+          "url": "https://5chan.jp/5ch_unei/",
+          "directory_name": "5ch_unei",
+          "category_order": 59,
+          "category": 3
+        }
+
+      ]
+    }
+  ],
+  "description": "5chan bbsmenu for the json application"
+}
